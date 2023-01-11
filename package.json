@@ -1,0 +1,23 @@
+{
+  "name": "openxmlui",
+  "version": "1.0.0",
+  "description": "Styling for file converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresV20/openxmlui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresV20/openxmlui/issues"
+  },
+  "homepage": "https://github.com/AndresV20/openxmlui#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}

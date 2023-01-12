@@ -576,6 +576,10 @@ video {
   max-width: max-content;
 }
 
+.content-center {
+  align-content: center;
+}
+
 .rounded-lg {
   border-radius: 0.5rem;
 }
@@ -639,6 +643,15 @@ video {
 .px-24 {
   padding-left: 6rem;
   padding-right: 6rem;
+}
+
+.px-52 {
+  padding-left: 13rem;
+  padding-right: 13rem;
+}
+
+.align-middle {
+  vertical-align: middle;
 }
 
 .font-mono {

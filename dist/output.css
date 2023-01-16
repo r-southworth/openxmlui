@@ -566,6 +566,14 @@ video {
   margin-right: auto;
 }
 
+.h-8 {
+  height: 2rem;
+}
+
+.w-28 {
+  width: 7rem;
+}
+
 .max-w-min {
   max-width: -moz-min-content;
   max-width: min-content;
@@ -609,6 +617,11 @@ video {
 .bg-blue-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(59 130 246 / var(--tw-bg-opacity));
+}
+
+.bg-red-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(220 38 38 / var(--tw-bg-opacity));
 }
 
 .object-contain {
